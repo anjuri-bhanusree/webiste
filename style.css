@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+#main-header img{
+    width: 100%;
+    height: 100%;
+}
+.bg-black{
+    color: #fff;
+    background: #000;
+}
+#main-header .port-item{
+    width: 100%;
+}
+#main-header .profile-img{
+    height: 357px;
+}
+.port-item:hover{
+    cursor: pointer;
+    opacity: 0.;
+}
